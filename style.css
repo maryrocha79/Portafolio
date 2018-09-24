@@ -247,10 +247,11 @@ img {
 }
 
 .img-container img {
+  /* object-fit: fill; */
   margin: auto;
   width: 100%;
   height: 300px;
-  overflow: hidden;
+  /* overflow: hidden; */
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
